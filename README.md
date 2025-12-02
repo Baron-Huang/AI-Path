@@ -12,7 +12,7 @@ Pan Huang, Yongfei Wang, Zhen Gu, Guoqing Fu, Yifang Ping*, Xin Luo*, Jing Qin*
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Graph-tensor Game Optimization driven-Instance Dense-subgraph Disentangled Clustering (GGO-IDDC)** method:
+Here's an overview of our **Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement (AI-Path)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
@@ -32,7 +32,7 @@ Here's an overview of our **Graph-tensor Game Optimization driven-Instance Dense
 
 ## 🛠️ Getting Started
 
-To get started with GGO-IDDC, follow the installation instructions below.
+To get started with **AI-Path**, follow the installation instructions below.
 
 1.  Clone the repo
 
