@@ -12,7 +12,7 @@ Pan Huang, Chentao Li, Bo Liang, Hong Yan, Yongfei Wang, Zhen Gu, Guoqing Fu, Xi
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Actively Interpretable Pathology Foundation Model using Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement (AI-Path)** method:
+Here's an overview of our **Actively Interpretable Pathology Foundation Model with Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement (AI-Path)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
