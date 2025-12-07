@@ -1,4 +1,4 @@
-# AI-Path
+# AI-PATH
 Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement
 
 ## 🧔: Authors [*Corresponding author]
@@ -12,7 +12,7 @@ Pan Huang, Chentao Li, Bo Liang, Hong Yan, Yongfei Wang, Zhen Gu, Guoqing Fu, Mi
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Actively Interpretable Pathology Foundation Model with Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement (AI-Path)** method:
+Here's an overview of our **Actively Interpretable Pathology Foundation Model with Instance-cluster Multi-global Effects driven-Invariance Semantic Self-supervised Disentanglement (AI-PATH)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
@@ -29,7 +29,7 @@ Here's an overview of our **Actively Interpretable Pathology Foundation Model wi
 
 ## 🛠️ Getting Started
 
-To get started with **AI-Path**, follow the installation instructions below.
+To get started with **AI-PATH**, follow the installation instructions below.
 
 1.  Clone the repo
 
