@@ -1,5 +1,5 @@
 # AI-PATH
-Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance SemanticGraph-regularized Tensor Clustering
+Actively Interpretable Pathology Foundation Model: Instance-cluster Multi-global Effects driven-Invariance Semantic Graph-regularized Tensor Clustering
 
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, Chentao Li, Hong Yan, Mingrui Ma, Xin Luo*, Xiuwu Bian*, Yifang Ping*, Jing Qin*
